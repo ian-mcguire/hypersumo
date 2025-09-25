@@ -1,0 +1,14 @@
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: times;
+}
+h1 {
+  text-align: center;
+  font-size: 200px;
+}
+img {
+  width: 300px;
+  height: auto;
+}
